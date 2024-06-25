@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TicketMogul.Core/1.0.0": {
+        "dependencies": {
+          "TicketMogul.Data": "1.0.0"
+        },
+        "runtime": {
+          "TicketMogul.Core.dll": {}
+        }
+      },
+      "TicketMogul.Data/1.0.0": {
+        "runtime": {
+          "TicketMogul.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicketMogul.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicketMogul.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

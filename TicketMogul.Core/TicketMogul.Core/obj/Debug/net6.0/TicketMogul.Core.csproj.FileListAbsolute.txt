@@ -1,0 +1,15 @@
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\bin\Debug\net6.0\TicketMogul.Core.deps.json
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\bin\Debug\net6.0\TicketMogul.Core.dll
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\bin\Debug\net6.0\TicketMogul.Core.pdb
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\bin\Debug\net6.0\TicketMogul.Data.dll
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\bin\Debug\net6.0\TicketMogul.Data.pdb
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.csproj.AssemblyReference.cache
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.AssemblyInfoInputs.cache
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.AssemblyInfo.cs
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.csproj.CoreCompileInputs.cache
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.csproj.CopyComplete
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.dll
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\refint\TicketMogul.Core.dll
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\TicketMogul.Core.pdb
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Core\TicketMogul.Core\obj\Debug\net6.0\ref\TicketMogul.Core.dll

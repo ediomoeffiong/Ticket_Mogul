@@ -1,0 +1,12 @@
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\bin\Debug\net6.0\TicketMogul.Data.deps.json
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\bin\Debug\net6.0\TicketMogul.Data.dll
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\bin\Debug\net6.0\TicketMogul.Data.pdb
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\TicketMogul.Data.csproj.AssemblyReference.cache
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\TicketMogul.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\TicketMogul.Data.AssemblyInfoInputs.cache
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\TicketMogul.Data.AssemblyInfo.cs
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\TicketMogul.Data.csproj.CoreCompileInputs.cache
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\TicketMogul.Data.dll
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\refint\TicketMogul.Data.dll
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\TicketMogul.Data.pdb
+C:\Users\oyewole.damilola\source\Class\TicketMogul.Data\obj\Debug\net6.0\ref\TicketMogul.Data.dll

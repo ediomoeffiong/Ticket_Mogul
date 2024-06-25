@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ThqIb4j8GU7gGBxe4OksdoFhULXVbtN2kgTA1+/gPBysSovBvKaaon7GAvoUTILZ0UDiCok/iRYsHNypMKGmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Covenant\\Desktop\\C#\\TicketMogul\\TicketMogul.Core\\TicketMogul.Core\\TicketMogul.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Covenant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Covenant\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Covenant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
